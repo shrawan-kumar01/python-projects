@@ -1,0 +1,5 @@
+Options – It is used to add arguments to the browser like which extensions to use and which user account to use and maximize the window and much more.
+
+Keys – It is used to work with the keys of the keyboard or hotkeys like Ctrl+A and Ctrl+C or Enter.
+
+os – Exiting the program
